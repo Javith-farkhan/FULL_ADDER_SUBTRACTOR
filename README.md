@@ -43,11 +43,13 @@ Borrow out = A'Bin + A'B + BBin
 Write the detailed procedure here
 
 
-Developed by: JAVITH FARKHAN S
-RegisterNumber: 212221240017
+
 
 **FULL_ADDER**
 ```
+Developed by: JAVITH FARKHAN S
+RegisterNumber: 212221240017
+
 module full_adder(a,b,cin,sum,carry);
 input a,b,cin;
 output sum,carry;
